@@ -12,7 +12,7 @@ VALUES
 ('Vestido Branco Chanel 164', '19901105', 80000 , 'Vestido Clássico usado pela integrante do BlackPink Jennie.', 'https://i.pinimg.com/564x/22/e1/bb/22e1bbcf3f9390cd46de3066a06d691f.jpg'),
 ('Vestido Longo Saint Laurent', '20230720', 51170 , 'Vestilo Longo com Pregas, transparente e com decote.', 'https://assets.vtex.app/unsafe/1245x1830/center/middle/https%3A%2F%2Figuatemi365.vtexassets.com%2Farquivos%2Fids%2F212816%2FYSL_220912_004_0107-00.jpg'),
 ('Vestido LOLITA Celine', '20230606', 66900 , 'Vestido em seda Musselina preta antigo.', 'https://image-cdn.trenbe.com/open-api-product-images/616/20220803/3f63cae8-534f-4e86-a652-3567d3d29a36.jpg'),
-('Vestido Preto Louis Vuitton', '19870505', 29000 , 'Vestido tamanhho P, básico.', 'https://br.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vestido-justo-de-mangas-curtas-e-gola-alta--FJDR25NHY900_PM2_Front%20view.jpg')
+('Vestido Preto Louis Vuitton', '19870505', 29000 , 'Vestido tamanhho P, básico.', 'https://br.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vestido-justo-de-mangas-curtas-e-gola-alta--FJDR25NHY900_PM2_Front%20view.jpg'),
 
 ('Bolsa Lady Dior Mini Preto', '19980910', 2220 , 'Bolsa Mini, Linha Italiana, Bolso interno com zíper.', 'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTzYbTqhQhwm-npOCNLGhoFzY9qayKkoL4TkgevZOZq4wBPcyTmjccF-XxjvPgmtRD4vtx_YlxJe8mMFGttnQEzkvehlgsYWvi2XfuDf3dgxgh_cOCBLBVGYdg&usqp=CAE.jpg'),
 ('Bolsa Chanel Double Preta', '19881015', 61369 , 'Peça Original, em couro, com saco original e caixa.', 'https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3H-zVFE2x-BPJjsX_zz2iOQexh2TzOJvfDHFsSf0QmI71gWmxzYus4aTL4Bsn6TdC_nQDxd4LEUompomC4njg9DIY9uCtbg&usqp=CAE.jpg'),

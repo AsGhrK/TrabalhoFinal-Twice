@@ -19,3 +19,4 @@ let connect = async function () {
 };
 
 module.exports = { connect };
+/*postgres://postgres:postgres@localhost/produto*/
